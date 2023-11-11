@@ -1,12 +1,15 @@
 # Retro Flap
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub release](https://img.shields.io/github/release/K-Kasper/retro-flap/all.svg?label=Release)](https://github.com/K-Kasper/retro-flap/releases)
 
 A retro-style Flappy Bird clone created using C and SDL2.
 
 ![Game Screenshot](screenshots/screenshot.png)
 
 ## Play
+
+To play the game, download the latest [release](https://github.com/K-Kasper/retro-flap/releases).
 
 The required Windows .dlls are included with the Windows binary.
 
@@ -18,7 +21,6 @@ On Linux, you need to install the following SDL2 dependencies:
 sudo dnf install SDL2 SDL2_ttf SDL2_mixer
 ```
 
-￼
 **Debian:**
 
 ```bash
