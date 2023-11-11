@@ -18,7 +18,6 @@ On Linux, you need to install the following SDL2 dependencies:
 sudo dnf install SDL2 SDL2_ttf SDL2_mixer
 ```
 
-￼
 **Debian:**
 
 ```bash
